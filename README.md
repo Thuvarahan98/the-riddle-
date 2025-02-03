@@ -1,2 +1,2 @@
 # the-riddle-
-just for fun 
+What has to be broken before you can use it?
